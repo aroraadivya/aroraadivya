@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divya Arora</h1>
 <h3 align="center">Building the Future, One Line of Code at a Time Passionate Frontend Developer from India | Java, C, C++, Python | Diving into the MERN Stack | Exploring the World of iOS Development | Pre-Final Year Student | Tech Explorer & Innovator</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/U3JpPrnqxngPioEv8">
+<!-- <img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/U3JpPrnqxngPioEv8"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aroraadivya&label=Profile%20views&color=0e75b6&style=flat" alt="aroraadivya" /> </p>
 
