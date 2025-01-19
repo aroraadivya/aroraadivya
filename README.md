@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Divya Arora</h1>
 <h3 align="center">Building the Future, One Line of Code at a Time| Exploring the World of iOS Development | Pre-Final Year Student | Tech Explorer & Innovator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aroraadivya&label=Profile%20views&color=0e75b6&style=flat" alt="aroraadivya" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aroraadivya" alt="aroraadivya" /></a> </p>
 
 - 🔭 I’m currently working on **Visera, a app in making with the help of IOS.**
@@ -39,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aroraadivya&show_icons=true&locale=en" alt="aroraadivya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aroraadivya&" alt="aroraadivya" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aroraadivya&label=Profile%20views&color=0e75b6&style=flat" alt="aroraadivya" /> </p>
