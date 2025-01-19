@@ -1,3 +1,5 @@
+<img src="banner.png" />
+
 <h1 align="center">Hi 👋, I'm Divya Arora</h1>
 <h3 align="center">Building the Future, One Line of Code at a Time Passionate Frontend Developer from India | Java, C, C++, Python | Diving into the MERN Stack | Exploring the World of iOS Development | Pre-Final Year Student | Tech Explorer & Innovator</h3>
 
