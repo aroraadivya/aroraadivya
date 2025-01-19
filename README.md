@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aroraadivya&label=Profile%20views&color=0e75b6&style=flat" alt="aroraadivya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/divyaarorag0o1" target="blank"><img src="https://img.shields.io/twitter/follow/divyaarorag0o1?logo=twitter&style=for-the-badge" alt="divyaarorag0o1" /></a> </p>
-
 - 🔭 I’m currently working on **Visera, a app in making with the help of IOS.**
 
 - 🌱 I’m currently learning **Cloud Computing and SwiftUI.**
