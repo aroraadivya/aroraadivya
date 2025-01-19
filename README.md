@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divya Arora</h1>
 <h3 align="center">Building the Future, One Line of Code at a Time Passionate Frontend Developer from India | Java, C, C++, Python | Diving into the MERN Stack | Exploring the World of iOS Development | Pre-Final Year Student | Tech Explorer & Innovator</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?sca_esv=cfdfcd9e6141dee0&sxsrf=ADLYWIJ8hp-ISxOk6aMQcknTlSLpJ4gt5A:1737267110796&q=girl+illustration+coding&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J7pRxUp2pI1mXV9fBsfh39LpAWJ-Nb3mi2m4EiVUszBibUgYBXGmUct3yVHr_9JSnE288fo6RrD78oXAmOKgB50q3R9TnL6GiT-TSc4e50gY12NCMPCqq1khedYIKxEeV2qq9hPSLEOebufY8kQJKNoKafpkMpjAihYoouDfUWxmeoLDTg&sa=X&ved=2ahUKEwj8l5OokIGLAxUBbfUHHU17HWUQtKgLegQIFBAB&biw=1470&bih=779&dpr=2#vhid=eBBE79h3klV33M&vssid=mosaic">
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/xMB6jtYfBWZmnHpR6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aroraadivya&label=Profile%20views&color=0e75b6&style=flat" alt="aroraadivya" /> </p>
 
