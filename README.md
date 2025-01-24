@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aroraadivya" alt="aroraadivya" /></a> </p>
 
-- 🔭 I’m currently working on **Visera, a app in making with the help of IOS.**
+- 🔭 I’m currently working on **Visera, a app in making with the IOS.**
 
 - 🌱 I’m currently learning **Cloud Computing and SwiftUI.**
 
