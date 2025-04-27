@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aroraadivya" alt="aroraadivya" /></a> </p>
 
-- 🔭 I’m currently working on **Visera, a app in making with the IOS.**
-
-- 🌱 I’m currently learning **Cloud Computing and SwiftUI.**
+- 🔭 Currently working on **Visera, a app in making with the IOS.**
 
 - 👯 I’m looking to collaborate on **Innovative tech projects that push the boundaries of creativity and problem-solving! Whether it’s building unique iOS apps, contributing to open-source projects, exploring the MERN stack, or developing new research ideas in the tech space, I’m excited to collaborate with like-minded individuals who are passionate about tech and innovation! Let's create something impactful together!**
 
