@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Divya Arora</h1>
 <h3 align="center">Building the Future, One Line of Code at a Time| Exploring the World of iOS Development | Pre-Final Year Student | Tech Explorer & Innovator</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aroraadivya" alt="aroraadivya" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aroraadivya" alt="aroraadivya" /></a> </p> -->
 
 - 🔭 Currently working on **Visera, a app in making with the IOS.**
 
