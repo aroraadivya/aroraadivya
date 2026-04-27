@@ -21,9 +21,21 @@
 #### 💼 Data Engineering Intern — ReKnew
 - Built **intelligent, data-driven applications** by integrating modern AI technologies  
 - Developed frontend interfaces using **React** and backend services using **FastAPI**  
-- Worked on **scalable API systems** ensuring efficient data flow across applications  
-- Explored **AI agents and LLM-based applications**, integrating them into real-world use cases  
+- Designed **scalable API systems** ensuring efficient data flow across applications  
+- Worked with **AI agents and LLM-based systems**, integrating them into real-world use cases  
 - Designed and consumed APIs for seamless communication between distributed systems  
+
+#### 💼 iOS Developer Intern — Infosys
+- Built a **functional iOS application from scratch** using Swift & SwiftUI  
+- Followed **MVVM architecture** for scalable and maintainable code  
+- Integrated **REST APIs** and optimized application performance  
+- Gained hands-on experience in **UI/UX, debugging, and deployment workflows**
+
+#### 💼 Zoho Developer Intern — Zouma Consulting Services
+- Developed and customized **CRM solutions** using Zoho Creator & Zoho CRM  
+- Automated **business workflows** and built custom modules  
+- Wrote complex functions using **Deluge scripting**  
+- Collaborated with product and operations teams to deliver scalable solutions  
 
 ---
 
