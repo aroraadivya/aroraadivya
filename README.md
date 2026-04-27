@@ -1,7 +1,7 @@
 <img src="banner.png" />
 
 <h1 align="center">Hi 👋, I'm Divya Arora</h1>
-<h3 align="center">AI-Driven Product Engineer • iOS • Backend • Data Systems</h3>
+<h3 align="center">AI-Driven Data Engineer • iOS • Backend • Data Systems</h3>
 
 ---
 
@@ -29,7 +29,7 @@
 
 ### 🚀 Projects
 
-🔹 **Visera** *(iOS App — In Progress)*  
+🔹 **Visera**  
 A product-focused iOS application designed around meaningful user experiences  
 
 🔹 **ZeroWaste Local**  
