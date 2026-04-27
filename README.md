@@ -1,34 +1,45 @@
 <img src="banner.png" />
 
 <h1 align="center">Hi 👋, I'm Divya Arora</h1>
-<h3 align="center">iOS Developer • Systems Thinker • Building Meaningful Digital Experiences</h3>
+<h3 align="center">AI-Driven Product Engineer • iOS • Backend • Data Systems</h3>
 
 ---
 
 ### 🌸 About Me
 
-💻 Pre-final year Computer Science student with a strong foundation in problem solving and system design  
-📱 Focused on crafting seamless **iOS experiences using SwiftUI**  
-🧠 Passionate about **DSA, backend systems, and scalable architectures**  
-🚀 Currently building **Visera** — an iOS app centered around intentional and meaningful user interaction  
-✍🏻 Writing *"She Knew, Eventually"* — exploring modern femininity, identity, and emotional depth  
-🌿 I enjoy building products where **technology meets human emotion**
+- 💻 Pre-final year Computer Science student  
+- 📱 Building **iOS applications with SwiftUI**  
+- 🤖 Working on **AI-powered, data-driven systems**  
+- ⚙️ Strong in **backend development, APIs & system design**  
+- ✍🏻 Author of *"She Knew, Eventually"*  
+- 🌿 I build products that combine **technology, data, and human experience**
 
 ---
 
-### 🚀 What I’m Building
+### 🚀 Experience
 
-🔹 **Visera**  
-An iOS experience designed to go beyond utility — focusing on how users *feel* while using an app  
+#### 💼 Data Engineering Intern — ReKnew
+- Built **intelligent, data-driven applications** by integrating modern AI technologies  
+- Developed frontend interfaces using **React** and backend services using **FastAPI**  
+- Worked on **scalable API systems** ensuring efficient data flow across applications  
+- Explored **AI agents and LLM-based applications**, integrating them into real-world use cases  
+- Designed and consumed APIs for seamless communication between distributed systems  
+
+---
+
+### 🚀 Projects
+
+🔹 **Visera** *(iOS App — In Progress)*  
+A product-focused iOS application designed around meaningful user experiences  
 
 🔹 **ZeroWaste Local**  
-A community-powered sustainability platform enabling local sharing, donations & conscious living  
+Community-driven sustainability platform for local sharing & donations  
 
-🔹 **Library Management System**  
-Role-based SwiftUI system with scalable architecture (Admin • Librarian • User)  
+🔹 **Library Management System (SwiftUI)**  
+Role-based architecture with scalable system design  
 
-🔹 **School Management App**  
-Digitizing attendance, academic tracking, and teacher-student workflows  
+🔹 **School Management System**  
+Attendance tracking and academic workflow platform  
 
 ---
 
@@ -40,34 +51,35 @@ C++ • C • Java • JavaScript • SQL • Swift
 **Frontend & Mobile**  
 SwiftUI • React.js • HTML • CSS • Tailwind  
 
-**Backend & Databases**  
-Node.js • Express.js • Supabase • Firebase  
+**Backend & Data**  
+Node.js • Express.js • FastAPI  
+Supabase • Firebase  
 MySQL • PostgreSQL  
 
-**Tools & Workflow**  
+**Tools**  
 Git • GitHub • Xcode • VS Code • Figma • Postman  
 
 ---
 
 ### 🌱 Currently Exploring
 
-- Advanced iOS architecture (MVVM+, scalability patterns)
-- AI + iOS integrations (LLMs, smart assistants)
-- Product thinking & user behavior design
+- AI + product integration (LLMs, agents, automation)  
+- Scalable backend systems & API design  
+- Advanced iOS architecture  
 
 ---
 
 ### 🌐 Connect With Me
 
 📧 Email: divyaarorag0o1@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/divya-arora-6a593b255/  
+💼 LinkedIn: https://www.linkedin.com/in/aroraadivya/  
 🐦 Twitter: https://twitter.com/divyaarorag0o1  
 
 ---
 
 ### ⚡ Philosophy
 
-> “I don’t just build features. I design experiences that people remember.”
+> “I build systems that don’t just work — they think, adapt, and create impact.”
 
 ---
 
