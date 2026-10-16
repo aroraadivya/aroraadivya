@@ -1,100 +1,81 @@
-<img src="banner.png" />
+<img src="banner.png" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Divya Arora</h1>
-<h3 align="center">AI-Driven Data Engineer • iOS • Backend • Data Systems</h3>
+<h3 align="center">AI-Driven Data Engineer · iOS Developer · Backend & Data Systems</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aroraadivya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/divyaarorag0o1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:divyaarorag0o1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
 ### 🌸 About Me
 
-- 💻 Pre-final year Computer Science student  
-- 📱 Building **iOS applications with SwiftUI**  
-- 🤖 Working on **AI-powered, data-driven systems**  
-- ⚙️ Strong in **backend development, APIs & system design**  
-- ✍🏻 Author of *"She Knew, Eventually"*  
-- 🌿 I build products that combine **technology, data, and human experience**
+I'm a pre-final year Computer Science student who builds at the intersection of **AI, data, and product**. I care about systems that are technically solid *and* feel good to use.
+
+- 🤖 Building **AI-powered, data-driven systems** with LLMs and agents
+- 📱 Crafting **iOS apps in SwiftUI** with clean MVVM architecture
+- ⚙️ Designing **backends, APIs, and scalable data flows**
+- ✍🏻 Author of *"She Knew, Eventually"*
 
 ---
 
-### 🚀 Experience
+### 💼 Experience
 
-#### 💼 Data Engineering Intern — ReKnew
-- Built **intelligent, data-driven applications** by integrating modern AI technologies  
-- Developed frontend interfaces using **React** and backend services using **FastAPI**  
-- Designed **scalable API systems** ensuring efficient data flow across applications  
-- Worked with **AI agents and LLM-based systems**, integrating them into real-world use cases  
-- Designed and consumed APIs for seamless communication between distributed systems  
+**Data Engineering Intern — ReKnew**
+- Built intelligent, data-driven applications powered by **AI agents and LLMs**
+- Developed full-stack features with **React** (frontend) and **FastAPI** (backend)
+- Designed scalable APIs for reliable data flow across distributed systems
 
-#### 💼 iOS Developer Intern — Infosys
-- Built a **functional iOS application from scratch** using Swift & SwiftUI  
-- Followed **MVVM architecture** for scalable and maintainable code  
-- Integrated **REST APIs** and optimized application performance  
-- Gained hands-on experience in **UI/UX, debugging, and deployment workflows**
+**iOS Developer Intern — Infosys**
+- Shipped a functional iOS app from scratch in **Swift & SwiftUI** using **MVVM**
+- Integrated REST APIs and optimized performance, debugging, and deployment
 
-#### 💼 Zoho Developer Intern — Zouma Consulting Services
-- Developed and customized **CRM solutions** using Zoho Creator & Zoho CRM  
-- Automated **business workflows** and built custom modules  
-- Wrote complex functions using **Deluge scripting**  
-- Collaborated with product and operations teams to deliver scalable solutions  
+**Zoho Developer Intern — Zouma Consulting Services**
+- Built and customized CRM solutions with **Zoho Creator & Zoho CRM**
+- Automated business workflows and wrote complex **Deluge** functions
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-🔹 **Visera**  
-A product-focused iOS application designed around meaningful user experiences  
-
-🔹 **ZeroWaste Local**  
-Community-driven sustainability platform for local sharing & donations  
-
-🔹 **Library Management System (SwiftUI)**  
-Role-based architecture with scalable system design  
-
-🔹 **School Management System**  
-Attendance tracking and academic workflow platform  
+| Project | What it is | Stack |
+|---|---|---|
+| **Visera** | Product-focused iOS app built around meaningful user experiences | SwiftUI |
+| **ZeroWaste Local** | Community sustainability platform for local sharing & donations | Full-stack |
+| **Library Management System** | Role-based library app with scalable architecture | SwiftUI · MVVM |
+| **School Management System** | Attendance tracking and academic workflow platform | Web · SQL |
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**  
-C++ • C • Java • JavaScript • SQL • Swift  
-
-**Frontend & Mobile**  
-SwiftUI • React.js • HTML • CSS • Tailwind  
-
-**Backend & Data**  
-Node.js • Express.js • FastAPI  
-Supabase • Firebase  
-MySQL • PostgreSQL  
-
-**Tools**  
-Git • GitHub • Xcode • VS Code • Figma • Postman  
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,cpp,c,java,js,py&theme=light" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nodejs,express,fastapi&theme=light" /><br/>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,mysql,postgres&theme=light" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,xcode,vscode,figma,postman&theme=light" />
+</p>
 
 ---
 
 ### 🌱 Currently Exploring
 
-- AI + product integration (LLMs, agents, automation)  
-- Scalable backend systems & API design  
-- Advanced iOS architecture  
+- Agentic AI and LLM-powered product features
+- Data pipelines and scalable backend design
+- Advanced iOS architecture
 
 ---
 
-### 🌐 Connect With Me
-
-📧 Email: divyaarorag0o1@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/aroraadivya/  
-🐦 Twitter: https://twitter.com/divyaarorag0o1  
-
----
-
-### ⚡ Philosophy
-
-> “I build systems that don’t just work — they think, adapt, and create impact.”
-
----
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aroraadivya&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aroraadivya&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroraadivya&layout=compact&hide_border=true" />
 </p>
+
+---
+
+<p align="center"><i>"I build systems that don't just work — they think, adapt, and create impact."</i></p>
