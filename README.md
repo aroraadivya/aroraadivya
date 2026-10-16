@@ -1,7 +1,7 @@
 <img src="banner.png" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Divya Arora</h1>
-<h3 align="center">AI-Driven Data Engineer · iOS Developer · Backend & Data Systems</h3>
+<h3 align="center">Data Engineer · AI & LLM Systems · Agentic Workflows</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aroraadivya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -13,29 +13,35 @@
 
 ### 🌸 About Me
 
-I'm a pre-final year Computer Science student who builds at the intersection of **AI, data, and product**. I care about systems that are technically solid *and* feel good to use.
+I'm a **Data Engineer** at ReKnew, building production data and AI systems for banking and fintech clients. I design the pipelines that move and shape data, the backend services that serve it, and the LLM agents that turn it into answers.
 
-- 🤖 Building **AI-powered, data-driven systems** with LLMs and agents
-- 📱 Crafting **iOS apps in SwiftUI** with clean MVVM architecture
-- ⚙️ Designing **backends, APIs, and scalable data flows**
+- 📊 **Data engineering:** pipelines and analytics with Apache Spark, Databricks & Snowflake
+- 🤖 **AI systems:** multi-agent workflows and RAG pipelines with LangChain, LangGraph & CrewAI
+- ⚙️ **Backend:** REST APIs and microservices with FastAPI & Node.js
+- ☁️ **Cloud:** AWS (Bedrock, SageMaker), Docker, Kubernetes/EKS, Terraform & CI/CD
+- 🎓 B.E. in Computer Science & Engineering, Chitkara University (2026)
 - ✍🏻 Author of *"She Knew, Eventually"*
 
 ---
 
 ### 💼 Experience
 
-**Data Engineering Intern — ReKnew**
-- Built intelligent, data-driven applications powered by **AI agents and LLMs**
-- Developed full-stack features with **React** (frontend) and **FastAPI** (backend)
-- Designed scalable APIs for reliable data flow across distributed systems
+**Junior Data Engineer @ ReKnew** · *May 2026 – Present*
+- Delivered a full-fledged **banking KPI dashboard for Fiserv** for stakeholder reporting
+- Built a **multi-agent AI platform** with three workflows: raw-data analysis, a RAG agent that parses PDF templates to answer templated questions, and an agent that turns frontend payloads into automated analysis
+- Deployed and operated these services with **Docker, CI/CD, and AWS**
 
-**iOS Developer Intern — Infosys**
-- Shipped a functional iOS app from scratch in **Swift & SwiftUI** using **MVVM**
-- Integrated REST APIs and optimized performance, debugging, and deployment
+**Data Engineer Intern @ ReKnew** · *Feb 2026 – Apr 2026*
+- Built AI-driven applications with **FastAPI** backends and **React** frontends
+- Integrated LLM agents into real-world production use cases
+- Designed REST APIs and microservices for reliable data flow across systems
 
-**Zoho Developer Intern — Zouma Consulting Services**
-- Built and customized CRM solutions with **Zoho Creator & Zoho CRM**
-- Automated business workflows and wrote complex **Deluge** functions
+**Business Process Automation (Zoho) @ Zouma Consulting Services** · *Apr 2025 – Feb 2026*
+- Automated client workflows with **Zoho CRM, Desk, Creator & Deluge** scripting
+- Built custom functions, workflow rules, and integrations
+
+**iOS Developer Intern @ Infosys** · *Feb 2025*
+- Built and optimized an iOS app with **SwiftUI, UIKit, CoreData & Firebase** using MVVM
 
 ---
 
@@ -43,29 +49,49 @@ I'm a pre-final year Computer Science student who builds at the intersection of 
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Visera** | Product-focused iOS app built around meaningful user experiences | SwiftUI |
-| **ZeroWaste Local** | Community sustainability platform for local sharing & donations | Full-stack |
-| **Library Management System** | Role-based library app with scalable architecture | SwiftUI · MVVM |
-| **School Management System** | Attendance tracking and academic workflow platform | Web · SQL |
+| **OpsIQ** 🏆 | Agentic incident-triage system that diagnoses production issues from raw logs and updates runbooks in real time · *Microsoft Agents League Hackathon 2026* | Python · LLM Agents |
+| **Real Estate Web App** | Property buying & selling platform with listings and search | MERN |
+| **Doctor Appointment Booking** | Doctor–patient portal for online appointment scheduling | MERN · Tailwind |
+| **Visera** | iOS app concept for aspiring models | SwiftUI · UIKit |
 
 ---
 
 ### 🛠️ Tech Stack
 
+**AI & Data**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=swift,cpp,c,java,js,py&theme=light" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nodejs,express,fastapi&theme=light" /><br/>
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,mysql,postgres&theme=light" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,xcode,vscode,figma,postman&theme=light" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG_&_Vector_DBs-6E40C9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+</p>
+
+**Languages · Backend · Cloud · Mobile**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,bash,swift&theme=light" /><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,tailwind,mongodb,mysql,firebase,supabase&theme=light" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,git,github,vscode,idea,xcode&theme=light" />
 </p>
 
 ---
 
 ### 🌱 Currently Exploring
 
-- Agentic AI and LLM-powered product features
-- Data pipelines and scalable backend design
-- Advanced iOS architecture
+- Agent orchestration and reasoning patterns for production LLM systems
+- Scalable data pipelines on Spark, Databricks & Snowflake
+- Cloud-native AI deployment on AWS Bedrock & SageMaker
+
+---
+
+### 🤝 Community
+
+- **Apple Student Community (CoE, Chitkara)** · Event Organizer, later Content Lead
+- **Open Source Chandigarh** · Technical Team Member
 
 ---
 
@@ -78,4 +104,4 @@ I'm a pre-final year Computer Science student who builds at the intersection of 
 
 ---
 
-<p align="center"><i>"I build systems that don't just work — they think, adapt, and create impact."</i></p>
+<p align="center"><i>"I build systems that don't just work; they think, adapt, and create impact."</i></p>
